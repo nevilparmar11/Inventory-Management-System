@@ -1,1 +1,18 @@
+Open the following link on the browser :
 https://drive.google.com/file/d/1mwveoeOQRKBdXODgOvOU_4EPGmKcsNP7/view?usp=sharing
+
+
+Few Important Timestamps of the video :
+[Below mentioned are the starting location of the described functionalities]
+
+1.) Intro, packages, email service : 0 min
+2.) more project structure, run and go to browser : 4.50 min
+3.) Login and landed onto dashboard : 7.20
+4.) upto sales module : 10.20 min
+5.) purchase module : 17.15 min
+6.) Inventory module : 20.40 min
+7.) config module : 22.35 min
+8.) User and Roles modules : 26.10 min
+9.) Employee's Access Denied Feature : 32.31 min
+10.) Forgot Password : 34.38 min
+11.) Cookies and closing note : 36.49 min
