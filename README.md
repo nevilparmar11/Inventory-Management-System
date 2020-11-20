@@ -2,7 +2,7 @@
 
 
 ## 🌐 Live Demo
-[Visit Demo](https://imsmvcsystem.azurewebsites.net/Account/Login)
+[Visit Demo](https://imsmvcsystem.azurewebsites.net/Account/Login) <br>
 Note : The site is up and live on azure platform. Since I am using the free service providers, few funcionalities might not work as expected due to the free subscription quotas and limits.
 
 ## Inventory and Order Management System
