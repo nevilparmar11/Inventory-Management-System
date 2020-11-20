@@ -35,7 +35,6 @@ The system is mainly divided into 5 modules.
 ![1](https://user-images.githubusercontent.com/48133426/99827545-c754da80-2b7f-11eb-927a-adbb63e9a5f3.png)
 ![2](https://user-images.githubusercontent.com/48133426/99827558-ccb22500-2b7f-11eb-851a-1cc0e1af1fda.png)
 ![3](https://user-images.githubusercontent.com/48133426/99827562-cd4abb80-2b7f-11eb-968c-cfbac8e22774.png)
-![4](https://user-images.githubusercontent.com/48133426/99827564-cde35200-2b7f-11eb-9a62-3e4015e17b7c.png)
 
 
 ## 🛠 Installation & Set Up
